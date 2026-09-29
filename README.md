@@ -190,3 +190,9 @@ Once the server is running, the interactive OpenAPI documentation is available a
 - **Roles & Permissions:** Introduce RBAC (e.g., `Admin`, `User`) to restrict the creation of centres/tests strictly to administrators.
 - **Robust Observability:** Integrate structured logging (e.g., via `structlog`) and distributed tracing (e.g., OpenTelemetry) to monitor webhook delays.
 - **Message Queues:** Offload payment processing and notification dispatching to asynchronous task queues (e.g., Celery/RabbitMQ) for higher resilience.
+
+---
+
+## 👨‍💻 Author / Contributor
+**Shivansh Pandey**  
+GitHub: [@ShivanshPandey2005](https://github.com/ShivanshPandey2005)
